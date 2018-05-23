@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirestoreDemoApp</string>
+    <string name="title_hint">Title</string>
+    <string name="desc_hint">Description</string>
+    <string name="priority_hint">Priority</string>
+    <string name="add_btn_text">Add</string>
+    <string name="load_btn_text">Load</string>
+</resources>
